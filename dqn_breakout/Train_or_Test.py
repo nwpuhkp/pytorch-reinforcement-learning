@@ -112,7 +112,7 @@ if __name__ == '__main__':
         print("Test rewards are:", *rewards)
         print("Average reward:", np.mean(rewards))
         env.close()
-
+#test
 
 
 
